@@ -10,3 +10,9 @@ The texts of the Suttas, Vinaya and Abhidhamma have been sourced from the SuttaC
 The remaining commentary texts of the Aṭṭhakathā, Tikā and Anya have been sourced from the Chaṭṭha Saṅgāyana as published by the Vipassana Research Institute.
 
 For the calculation of the Pāli matches, SuttaCentral's hyphenation and stemming algorithms have been used.
+
+### Types of input files:
+
+The folder `inputfiles` holds the files with their original segmentation, including longer segments with multiple sentences.
+The folder `inputfiles_cut_segments_for_Aijato` holds the files with longer segments cut according to `.`, `?`, `;` and `:` so as to make them usable for the Aijato automated pali --> english translations.
+The folder `inputfiles_cut_segments_for_NN` holds the files where longer segments are cut down even further, breaking on `,` as well. For the calculation of matches, smaller segments are preferable.
