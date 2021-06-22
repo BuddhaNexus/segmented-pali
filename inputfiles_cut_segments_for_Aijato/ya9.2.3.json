@@ -370,10 +370,14 @@
   "ya9.2.3:253.1_0": " Yassa vā pana yattha akusalā dhammā na nirujjhissanti tassa tattha kusalā dhammā na uppajjitthāti?",
   "ya9.2.3:254.1_0": "Aggamaggasamaṅgīnaṁ arahantānaṁ yassa cittassa anantarā aggamaggaṁ paṭilabhissanti tesaṁ tattha akusalā dhammā na nirujjhissanti, no ca tesaṁ tattha kusalā dhammā na uppajjittha.",
   "ya9.2.3:254.1_1": "Asaññasattānaṁ tesaṁ tattha akusalā ca dhammā na nirujjhissanti kusalā ca dhammā na uppajjittha.",
-  "ya9.2.3:255.1_0": " Yassa yattha kusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na nirujjhissantīti? Nirujjhissanti.",
-  "ya9.2.3:256.1_0": " Yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na uppajjitthāti? Uppajjittha.",
-  "ya9.2.3:257.1_0": " Yassa yattha akusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na nirujjhissantīti? Nirujjhissanti.",
-  "ya9.2.3:258.1_0": " Yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na uppajjitthāti? Uppajjittha.",
+  "ya9.2.3:255.1_0": "Yassa yattha kusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na nirujjhissantīti?",
+  "ya9.2.3:255.1_1": "Nirujjhissanti.",
+  "ya9.2.3:256.1_0": "Yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na uppajjitthāti?",
+  "ya9.2.3:256.1_1": "Uppajjittha.",
+  "ya9.2.3:257.1_0": "Yassa yattha akusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na nirujjhissantīti?",
+  "ya9.2.3:257.1_1": "Nirujjhissanti.",
+  "ya9.2.3:258.1_0": "Yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na uppajjitthāti?",
+  "ya9.2.3:258.1_1": "Uppajjittha.",
   "ya9.2.3:259.1_0": "Uppādanirodhavāro.",
   "ya9.2.3:260.1_0": "Pavattivāro niṭṭhito."
 }

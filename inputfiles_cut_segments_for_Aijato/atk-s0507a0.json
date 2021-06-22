@@ -24,8 +24,8 @@
   "atk-s0507a0:22_0": "Yathābalaṁ karissāmi, atthasaṁvaṇṇanaṁ subhaṁ;",
   "atk-s0507a0:23_0": "Sakkaccaṁ bhāsato taṁ me, nisāmayatha sādhavoti.",
   "atk-s0507a0:24_0": "Tattha petavatthūti seṭṭhiputtādikassa tassa tassa sattassa petabhāvahetubhūtaṁ kammaṁ, tassa pana pakāsanavasena pavatto ‘‘khettūpamā arahanto’’tiādikā pariyattidhammo idha ‘‘petavatthū’’ti adhippeto.",
-  "atk-s0507a0:25_0": "Tayidaṁ petavatthu kena bhāsitaṁ, kattha bhāsitaṁ, kadā bhāsitaṁ, kasmā ca bhāsitanti?",
-  "atk-s0507a0:25_1": "Vuccate – idañhi petavatthu duvidhena pavattaṁ aṭṭhuppattivasena, pucchāvissajjanavasena ca.",
+  "atk-s0507a0:25_0": "Tayidaṁ petavatthu kena bhāsitaṁ, kattha bhāsitaṁ, kadā bhāsitaṁ, kasmā ca bhāsitanti? Vuccate –",
+  "atk-s0507a0:25_1": "idañhi petavatthu duvidhena pavattaṁ aṭṭhuppattivasena, pucchāvissajjanavasena ca.",
   "atk-s0507a0:25_2": "Tattha yaṁ aṭṭhuppattivasena pavattaṁ, taṁ bhagavatā bhāsitaṁ, itaraṁ nāradattherādīhi pucchitaṁ tehi tehi petehi bhāsitaṁ.",
   "atk-s0507a0:25_3": "Satthā pana yasmā nāradattherādīhi tasmiṁ tasmiṁ pucchāvissajjane ārocite taṁ taṁ aṭṭhuppattiṁ katvā sampattaparisāya dhammaṁ desesi, tasmā sabbampetaṁ petavatthu satthārā bhāsitameva nāma jātaṁ.",
   "atk-s0507a0:25_4": "Pavattitavaradhammacakke hi satthari tattha tattha rājagahādīsu viharante yebhuyyena tāya tāya aṭṭhuppattiyā pucchāvissajjanavasena sattānaṁ kammaphalapaccakkhakaraṇāya taṁ taṁ petavatthu desanāruḷhanti ayaṁ tāvettha ‘‘kena bhāsita’’ntiādīnaṁ padānaṁ sādhāraṇato vissajjanā.",
@@ -33,7 +33,8 @@
   "atk-s0507a0:26_0": "Taṁ panetaṁ petavatthu vinayapiṭakaṁ suttantapiṭakaṁ abhidhammapiṭakanti tīsu piṭakesu suttantapiṭakapariyāpannaṁ, dīghanikāyo majjhimanikāyo saṁyuttanikāyo aṅguttaranikāyo khuddakanikāyoti pañcasu nikāyesu khuddakanikāyapariyāpannaṁ, suttaṁ geyyaṁ veyyākaraṇaṁ gāthā udānaṁ itivuttakaṁ jātakaṁ abbhutadhammaṁ vedallanti navasu sāsanaṅgesu gāthāsaṅgahaṁ.",
   "atk-s0507a0:27_0": "‘‘Dvāsīti buddhato gaṇhiṁ, dve sahassāni bhikkhuto;",
   "atk-s0507a0:28_0": "Caturāsīti sahassāni, ye me dhammā pavattino’’ti. (theragā. 1027) –",
-  "atk-s0507a0:29_0": "Evaṁ dhammabhaṇḍāgārikena paṭiññātesu caturāsītiyā dhammakkhandhasahassesu katipayadhammakkhandhasaṅgahaṁ, bhāṇavārato catubhāṇavāramattaṁ, vaggato – uragavaggo ubbarivaggo cūḷavaggo mahāvaggoti catuvaggasaṅgahaṁ.",
-  "atk-s0507a0:29_1": "Tesu paṭhamavagge dvādasa vatthūni, dutiyavagge terasa vatthūni, tatiyavagge dasa vatthūni, catutthavagge soḷasa vatthūnīti vatthuto ekapaññāsavatthupaṭimaṇḍitaṁ.",
-  "atk-s0507a0:29_2": "Tassa vaggesu uragavaggo ādi, vatthūsu khettūpamapetavatthu ādi, tassāpi ‘‘khettūpamā arahanto’’ti ayaṁ gāthā ādi."
+  "atk-s0507a0:29_0": "Evaṁ dhammabhaṇḍāgārikena paṭiññātesu caturāsītiyā dhammakkhandhasahassesu katipayadhammakkhandhasaṅgahaṁ, bhāṇavārato catubhāṇavāramattaṁ, vaggato –",
+  "atk-s0507a0:29_1": "uragavaggo ubbarivaggo cūḷavaggo mahāvaggoti catuvaggasaṅgahaṁ.",
+  "atk-s0507a0:29_2": "Tesu paṭhamavagge dvādasa vatthūni, dutiyavagge terasa vatthūni, tatiyavagge dasa vatthūni, catutthavagge soḷasa vatthūnīti vatthuto ekapaññāsavatthupaṭimaṇḍitaṁ.",
+  "atk-s0507a0:29_3": "Tassa vaggesu uragavaggo ādi, vatthūsu khettūpamapetavatthu ādi, tassāpi ‘‘khettūpamā arahanto’’ti ayaṁ gāthā ādi."
 }

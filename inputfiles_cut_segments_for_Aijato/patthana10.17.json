@@ -3,7 +3,10 @@
   "patthana10.17:0.2_0": "Dhammapaccanīya (2), Tikadukapaṭṭhānapāḷi (4)",
   "patthana10.17:0.3_0": "10.17. Sanidassanattika, Piṭṭhiduka",
   "patthana10.17:1.1_0": "Nasanidassanasappaṭighaṁ nadassanena pahātabbaṁ dhammaṁ paṭicca …. (Saṅkhittaṁ.)",
-  "patthana10.17:2.1_0": "Hetuyā tiṁsa, ārammaṇe nava …pe… aññamaññe pañcavīsa …pe… avigate tiṁsa. (Piṭṭhidukaṁ vitthāretabbaṁ.)",
+  "patthana10.17:2.1_0": "Hetuyā tiṁsa, ārammaṇe nava …pe…",
+  "patthana10.17:2.1_1": "aññamaññe pañcavīsa …pe…",
+  "patthana10.17:2.1_2": "avigate tiṁsa.",
+  "patthana10.17:2.1_3": "(Piṭṭhidukaṁ vitthāretabbaṁ.)",
   "patthana10.17:3.1_0": "Nasanidassanasappaṭighaṁ nasaraṇaṁ dhammaṁ paṭicca nasanidassanasappaṭigho nasaraṇo dhammo uppajjati hetupaccayā.",
   "patthana10.17:3.1_1": "Nasanidassanasappaṭighaṁ nasaraṇaṁ dhammaṁ paṭicca naanidassanasappaṭigho nasaraṇo dhammo uppajjati hetupaccayā.",
   "patthana10.17:3.1_2": "Nasanidassanasappaṭighaṁ nasaraṇaṁ dhammaṁ paṭicca naanidassanaappaṭigho nasaraṇo dhammo uppajjati hetupaccayā …pe… cha.",
@@ -21,7 +24,9 @@
   "patthana10.17:10.1_2": "Naanidassanasappaṭighaṁ naaraṇaṁ dhammaṁ paṭicca nasanidassanasappaṭigho naaraṇo ca naanidassanasappaṭigho naaraṇo ca dhammā uppajjanti hetupaccayā.",
   "patthana10.17:11.1_0": "Nasanidassanasappaṭighaṁ naaraṇañca naanidassanasappaṭighaṁ naaraṇañca dhammaṁ paṭicca nasanidassanasappaṭigho naaraṇo dhammo uppajjati hetupaccayā.",
   "patthana10.17:11.1_1": "Nasanidassanasappaṭighaṁ naaraṇañca naanidassanasappaṭighaṁ naaraṇañca dhammaṁ paṭicca naanidassanasappaṭigho naaraṇo dhammo uppajjati hetupaccayā.",
-  "patthana10.17:11.1_2": "Nasanidassanasappaṭighaṁ naaraṇañca naanidassanasappaṭighaṁ naaraṇañca dhammaṁ paṭicca nasanidassanasappaṭigho naaraṇo ca naanidassanasappaṭigho naaraṇo ca dhammā uppajjanti hetupaccayā. (Saṅkhittaṁ.)",
-  "patthana10.17:12.1_0": "Hetuyā nava, ārammaṇe nava …pe… avigate nava.",
-  "patthana10.17:12.1_1": "(Sahajātavārepi paccayavārepi nissayavārepi saṁsaṭṭhavārepi sampayuttavārepi sabbattha nava.)"
+  "patthana10.17:11.1_2": "Nasanidassanasappaṭighaṁ naaraṇañca naanidassanasappaṭighaṁ naaraṇañca dhammaṁ paṭicca nasanidassanasappaṭigho naaraṇo ca naanidassanasappaṭigho naaraṇo ca dhammā uppajjanti hetupaccayā.",
+  "patthana10.17:11.1_3": "(Saṅkhittaṁ.)",
+  "patthana10.17:12.1_0": "Hetuyā nava, ārammaṇe nava …pe…",
+  "patthana10.17:12.1_1": "avigate nava.",
+  "patthana10.17:12.1_2": "(Sahajātavārepi paccayavārepi nissayavārepi saṁsaṭṭhavārepi sampayuttavārepi sabbattha nava.)"
 }

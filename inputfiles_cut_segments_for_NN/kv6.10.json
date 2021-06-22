@@ -27,10 +27,20 @@
   "kv6.10:4.3_0": "Āmantā.",
   "kv6.10:4.4_0": "Nanu passati abhikkamantaṁ paṭikkamantaṁ ālokentaṁ vilokentaṁ samiñjentaṁ pasārentanti?",
   "kv6.10:4.5_0": "Āmantā.",
-  "kv6.10:4.6_0": "Hañci passati abhikkamantaṁ paṭikkamantaṁ ālokentaṁ vilokentaṁ samiñjentaṁ pasārentaṁ, tena vata re vattabbe—",
+  "kv6.10:4.6_0": "Hañci passati abhikkamantaṁ paṭikkamantaṁ ālokentaṁ vilokentaṁ samiñjentaṁ pasārentaṁ,",
+  "kv6.10:4.6_1": "tena vata re vattabbe—",
   "kv6.10:4.7_0": "“kāyakammaṁ sanidassanan”ti.",
   "kv6.10:4.8_0": "Kāyakammaṁ sanidassanantikathā niṭṭhitā.",
   "kv6.10:4.9_0": "Chaṭṭho vaggo.",
   "kv6.10:4.10_0": "Tassuddānaṁ",
-  "kv6.10:5.1_0": "Niyamo asaṅkhato, paṭiccasamuppādo asaṅkhato, cattāri saccāni asaṅkhatāni, cattāro āruppā asaṅkhatā, nirodhasamāpatti asaṅkhatā, ākāso asaṅkhato, ākāso sanidassano, cattāro mahābhūtā, pañcindriyāni, tatheva kāyakammanti."
+  "kv6.10:5.1_0": "Niyamo asaṅkhato,",
+  "kv6.10:5.1_1": "paṭiccasamuppādo asaṅkhato,",
+  "kv6.10:5.1_2": "cattāri saccāni asaṅkhatāni,",
+  "kv6.10:5.1_3": "cattāro āruppā asaṅkhatā,",
+  "kv6.10:5.1_4": "nirodhasamāpatti asaṅkhatā,",
+  "kv6.10:5.1_5": "ākāso asaṅkhato,",
+  "kv6.10:5.1_6": "ākāso sanidassano,",
+  "kv6.10:5.1_7": "cattāro mahābhūtā,",
+  "kv6.10:5.1_8": "pañcindriyāni,",
+  "kv6.10:5.1_9": "tatheva kāyakammanti."
 }

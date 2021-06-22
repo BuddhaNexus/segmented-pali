@@ -34,7 +34,10 @@
   "kv20.2:3.13_0": "“natthi puthujjanassa ñāṇan”ti.",
   "kv20.2:4.1_0": "Atthi puthujjanassa ñāṇanti?",
   "kv20.2:4.2_0": "Āmantā.",
-  "kv20.2:4.3_0": "Puthujjano tena ñāṇena dukkhaṁ parijānāti, samudayaṁ pajahati, nirodhaṁ sacchikaroti, maggaṁ bhāvetīti?",
+  "kv20.2:4.3_0": "Puthujjano tena ñāṇena dukkhaṁ parijānāti,",
+  "kv20.2:4.3_1": "samudayaṁ pajahati,",
+  "kv20.2:4.3_2": "nirodhaṁ sacchikaroti,",
+  "kv20.2:4.3_3": "maggaṁ bhāvetīti?",
   "kv20.2:4.4_0": "Na hevaṁ vattabbe …pe….",
   "kv20.2:4.5_0": "Ñāṇakathā niṭṭhitā."
 }

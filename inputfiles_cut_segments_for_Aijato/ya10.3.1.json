@@ -22,7 +22,8 @@
   "ya10.3.1:16.1_0": "Dve puggalā aññindriyaṁ bhāventi, no ca domanassindriyaṁ pajahanti.",
   "ya10.3.1:16.1_1": "Anāgāmimaggasamaṅgī aññindriyañca bhāveti domanassindriyañca pajahati.",
   "ya10.3.1:17.1_0": " Yo domanassindriyaṁ pajahati so aññātāvindriyaṁ sacchikarotīti? No.",
-  "ya10.3.1:18.1_0": " Yo vā pana aññātāvindriyaṁ sacchikaroti so domanassindriyaṁ pajahatīti? No. (Domanassindriyamūlakaṁ.)",
+  "ya10.3.1:18.1_0": "Yo vā pana aññātāvindriyaṁ sacchikaroti so domanassindriyaṁ pajahatīti? No.",
+  "ya10.3.1:18.1_1": "(Domanassindriyamūlakaṁ.)",
   "ya10.3.1:19.1_0": " Yo anaññātaññassāmītindriyaṁ bhāveti so aññindriyaṁ bhāvetīti? No.",
   "ya10.3.1:20.1_0": " Yo vā pana aññindriyaṁ bhāveti so anaññātaññassāmītindriyaṁ bhāvetīti? No.",
   "ya10.3.1:21.1_0": " Yo anaññātaññassāmītindriyaṁ bhāveti so aññātāvindriyaṁ sacchikarotīti? No.",
@@ -52,7 +53,8 @@
   "ya10.3.1:37.1_1": "Aggamaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā cakkhundriyañca na parijānanti aññātāvindriyañca na sacchikaronti.",
   "ya10.3.1:38.1_0": " Yo vā pana aññātāvindriyaṁ na sacchikaroti so cakkhundriyaṁ na parijānātīti?",
   "ya10.3.1:39.1_0": "Aggamaggasamaṅgī aññātāvindriyaṁ na sacchikaroti, no ca cakkhundriyaṁ na parijānāti.",
-  "ya10.3.1:39.1_1": "Aggamaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā aññātāvindriyañca na sacchikaronti cakkhundriyañca na parijānanti. (Cakkhundriyamūlakaṁ.)",
+  "ya10.3.1:39.1_1": "Aggamaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā aññātāvindriyañca na sacchikaronti cakkhundriyañca na parijānanti.",
+  "ya10.3.1:39.1_2": "(Cakkhundriyamūlakaṁ.)",
   "ya10.3.1:40.1_0": " Yo domanassindriyaṁ nappajahati so anaññātaññassāmītindriyaṁ na bhāvetīti?",
   "ya10.3.1:41.1_0": "Aṭṭhamako domanassindriyaṁ nappajahati, no ca anaññātaññassāmītindriyaṁ na bhāveti.",
   "ya10.3.1:41.1_1": "Dve maggasamaṅgino ṭhapetvā avasesā puggalā domanassindriyañca nappajahanti anaññātaññassāmītindriyañca na bhāventi.",
@@ -68,7 +70,8 @@
   "ya10.3.1:48.1_1": "Anāgāmimaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā domanassindriyañca nappajahanti aññātāvindriyañca na sacchikaronti.",
   "ya10.3.1:49.1_0": " Yo vā pana aññātāvindriyaṁ na sacchikaroti so domanassindriyaṁ nappajahatīti?",
   "ya10.3.1:50.1_0": "Anāgāmimaggasamaṅgī aññātāvindriyaṁ na sacchikaroti, no ca domanassindriyaṁ nappajahati.",
-  "ya10.3.1:50.1_1": "Anāgāmimaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā aññātāvindriyañca na sacchikaronti domanassindriyañca nappajahanti. (Domanassindriyamūlakaṁ.)",
+  "ya10.3.1:50.1_1": "Anāgāmimaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā aññātāvindriyañca na sacchikaronti domanassindriyañca nappajahanti.",
+  "ya10.3.1:50.1_2": "(Domanassindriyamūlakaṁ.)",
   "ya10.3.1:51.1_0": " Yo anaññātaññassāmītindriyaṁ na bhāveti so aññindriyaṁ na bhāvetīti?",
   "ya10.3.1:52.1_0": "Tayo maggasamaṅgino anaññātaññassāmītindriyaṁ na bhāventi, no ca aññindriyaṁ na bhāventi.",
   "ya10.3.1:52.1_1": "Cattāro maggasamaṅgino ṭhapetvā avasesā puggalā anaññātaññassāmītindriyañca na bhāventi aññindriyañca na bhāventi.",
@@ -87,5 +90,6 @@
   "ya10.3.1:60.1_1": "Tayo maggasamaṅgino ca arahantañca ṭhapetvā avasesā puggalā aññindriyañca na bhāventi aññātāvindriyañca na sacchikaronti.",
   "ya10.3.1:61.1_0": " Yo vā pana aññātāvindriyaṁ na sacchikaroti so aññindriyaṁ na bhāvetīti?",
   "ya10.3.1:62.1_0": "Tayo maggasamaṅgino aññātāvindriyaṁ na sacchikaronti, no ca aññindriyaṁ na bhāventi.",
-  "ya10.3.1:62.1_1": "Tayo maggasamaṅgino ca arahantañca ṭhapetvā avasesā puggalā aññātāvindriyañca na sacchikaronti aññindriyañca na bhāventi. (Aññindriyamūlakaṁ.)"
+  "ya10.3.1:62.1_1": "Tayo maggasamaṅgino ca arahantañca ṭhapetvā avasesā puggalā aññātāvindriyañca na sacchikaronti aññindriyañca na bhāventi.",
+  "ya10.3.1:62.1_2": "(Aññindriyamūlakaṁ.)"
 }

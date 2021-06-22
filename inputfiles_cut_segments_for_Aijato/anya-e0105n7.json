@@ -46,7 +46,9 @@
   "anya-e0105n7:33_0": "Asokarañño ca kāle parihīnalābhasakkārā aññatitthiyā lābhasakkāraṁ patthayamānā bhikkhūsu pabbajitvā sakāni sakāni diṭṭhigatāni dīpenti ‘‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsana’’nti.",
   "anya-e0105n7:33_1": "Bhikkhūnaṁ santike pabbajjaṁ alabhamānāpi sayameva kese chinditvā kāsāyāni vatthāni acchādetvā vihāresu vicarantā uposathakammādikaraṇakāle saṅghamajjhaṁ pavisanti, te bhikkhusaṅghena dhammena vinayena satthusāsanena niggayhamānāpi dhammavinayānulomāya paṭipattiyā asaṇṭhahantā anekarūpaṁ sāsanassa abbudañca malañca kaṇṭakañca samuṭṭhāpenti.",
   "anya-e0105n7:33_2": "Keci aggiṁ paricaranti, keci pañcātape tapanti, keci ādiccaṁ anuparivattanti, keci dhammañca vinayañca vobhindissāmāti tathā tathā paggaṇhanti.",
-  "anya-e0105n7:33_3": "Tadā bhikkhusaṅgho na tehi saddhiṁ uposathaṁ vā pavāraṇaṁ vā akāsi, asokārāme satta vassāni uposatho upacchijji kathā. aṭṭha. nidānakathā; pārā. aṭṭha. 1.tatiyasaṅgītikathā.",
+  "anya-e0105n7:33_3": "Tadā bhikkhusaṅgho na tehi saddhiṁ uposathaṁ vā pavāraṇaṁ vā akāsi, asokārāme satta vassāni uposatho upacchijji kathā. aṭṭha.",
+  "anya-e0105n7:33_4": "nidānakathā; pārā. aṭṭha.",
+  "anya-e0105n7:33_5": "1.tatiyasaṅgītikathā.",
   "anya-e0105n7:34_0": "Imañca pana pavattiṁ upādāya evampi sakkā gahetuṁ ‘‘sattarasannaṁ bhinnavādagaṇānaṁ dhammavinayassa pacchimakālesu aparisuddhatarabhāvo īdisenapi kāraṇena ahosī’’ti.",
   "anya-e0105n7:34_1": "Kiñcāpi hi buddhasāsanabhūte parisuddhadhammavinaye ‘‘kocipi nicco dhuvo sassato nāma natthi aññatra nibbānadhātuyā, paramatthato attāpi natthi, sabbepi saṅkhārā aniccā addhuvā asassatā anattāyevā’’ti attho ativiya pākaṭo hoti, tathāpi dāni atheravādikānaṁ ganthesu ca pubbe vetullavādādīsu ca ‘‘buddho nicco dhuvo sassato attā’’ti ca, ‘‘sabbepi sattā niccā dhuvā sassatā attā’’ti ca attho dissati.",
   "anya-e0105n7:35_0": "Atha asoko dhammarājā sāsanaṁ visodhetukāmo moggaliputtatissattherassa santike paṭhamameva samayaṁ uggaṇhitvā ekaladdhike ekaladdhike bhikkhū ekato kāretvā ekamekaṁ bhikkhusamūhaṁ pakkosāpetvā pucchi ‘‘kiṁ vādī bhante sammāsambuddho’’ti.",
@@ -55,10 +57,12 @@
   "anya-e0105n7:36_0": "Athaññe bhikkhū pucchitvā tehi ‘‘vibhajjavādī mahārāja sammāsambuddho’’ti vutte ‘‘suddhaṁ dāni bhante sāsanaṁ, karotu bhikkhusaṅgho uposatha’’nti vatvā ārakkhañca datvā nagaraṁ pāvisi.",
   "anya-e0105n7:36_1": "Samaggo saṅgho sannipatitvā uposathaṁ akāsi.",
   "anya-e0105n7:36_2": "Tasmiṁ samāgame moggaliputtatissatthero yāni ca tadā uppannāni vatthūni yāni ca āyatiṁ uppajjissanti, sabbesampi tesaṁ paṭibāhanatthaṁ satthārā dinnanayavaseneva tathāgatena ṭhapitamātikaṁ vibhajanto parappavādamaddanaṁ kathāvatthuṁ nāma abhidhammapiṭake pañcamaṁ pakaraṇaṁ abhāsi.",
-  "anya-e0105n7:36_3": "Tato moggaliputtatissattherappamukhā tipiṭakapariyattidharā pabhinnapaṭisambhidāpattā sahassaṁ bhikkhū theravādino saṅgītidvayārūḷhaṁ parisuddhaṁ porāṇadhammavinayaṁ puna saṅgāyitvā surakkhitaṁ rakkhiṁsu pārā. aṭṭha. 1.tatiyasaṅgītikathā.",
+  "anya-e0105n7:36_3": "Tato moggaliputtatissattherappamukhā tipiṭakapariyattidharā pabhinnapaṭisambhidāpattā sahassaṁ bhikkhū theravādino saṅgītidvayārūḷhaṁ parisuddhaṁ porāṇadhammavinayaṁ puna saṅgāyitvā surakkhitaṁ rakkhiṁsu pārā. aṭṭha.",
+  "anya-e0105n7:36_4": "1.tatiyasaṅgītikathā.",
   "anya-e0105n7:37_0": "Atha moggaliputtatissatthero navasu paccantaṭṭhānesu sāsanapatiṭṭhāpanatthaṁ nava nāyakatthere uccinitvā pesesi.",
-  "anya-e0105n7:37_1": "Tesu aṭṭhahi therehi attano attano pattaṭṭhānaṁ gantvā buddhasāsane patiṭṭhāpite mahāmahindatthero chattiṁsādhikadvisate (236) buddhavasse jambudīpato sīhaḷadīpaṁ gantvā devānaṁpiyatissarājappamukhaṁ dīpakajanasamūhaṁ pasādetvā buddhasāsanaṁ sampatiṭṭhāpesi, tena ca raññā dinnaṁ mahāmeghavanuyyānaṁ paṭiggahetvā tattha mahāvihāraṁ nāma saṅghārāmaṁ patiṭṭhāpesi pārā. aṭṭha. 1.tatiyasaṅgītikathā.",
-  "anya-e0105n7:37_2": "Tato pabhuti sīhaḷadīpe buddhasāsanaṁ yāva vaṭṭagāmaṇirājakālā nikāyantaravādākularahitaṁ nimmalaṁ suparisuddhaṁ hutvā samujjalittha.",
-  "anya-e0105n7:37_3": "Vaṭṭagāmaṇirājakālato pana paṭṭhāya nikāyantaravādāpi sīhaḷadīpamupāgamiṁsu.",
-  "anya-e0105n7:37_4": "Tadā visuddhattheravādino yathā purāṇadhammavinayo tehi nikāyantaravādehi asammisso amalīno pakatiparisuddho hutvā tiṭṭheyya, tathā taṁ mahussāhena surakkhitaṁ rakkhiṁsu. Kathaṁ?"
+  "anya-e0105n7:37_1": "Tesu aṭṭhahi therehi attano attano pattaṭṭhānaṁ gantvā buddhasāsane patiṭṭhāpite mahāmahindatthero chattiṁsādhikadvisate (236) buddhavasse jambudīpato sīhaḷadīpaṁ gantvā devānaṁpiyatissarājappamukhaṁ dīpakajanasamūhaṁ pasādetvā buddhasāsanaṁ sampatiṭṭhāpesi, tena ca raññā dinnaṁ mahāmeghavanuyyānaṁ paṭiggahetvā tattha mahāvihāraṁ nāma saṅghārāmaṁ patiṭṭhāpesi pārā. aṭṭha.",
+  "anya-e0105n7:37_2": "1.tatiyasaṅgītikathā.",
+  "anya-e0105n7:37_3": "Tato pabhuti sīhaḷadīpe buddhasāsanaṁ yāva vaṭṭagāmaṇirājakālā nikāyantaravādākularahitaṁ nimmalaṁ suparisuddhaṁ hutvā samujjalittha.",
+  "anya-e0105n7:37_4": "Vaṭṭagāmaṇirājakālato pana paṭṭhāya nikāyantaravādāpi sīhaḷadīpamupāgamiṁsu.",
+  "anya-e0105n7:37_5": "Tadā visuddhattheravādino yathā purāṇadhammavinayo tehi nikāyantaravādehi asammisso amalīno pakatiparisuddho hutvā tiṭṭheyya, tathā taṁ mahussāhena surakkhitaṁ rakkhiṁsu. Kathaṁ?"
 }

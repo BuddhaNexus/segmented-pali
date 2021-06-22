@@ -6,9 +6,15 @@
   "patthana10.3:2.1_0": "Hetuyā pannarasa, ārammaṇe nava, adhipatiyā nava …pe… vipāke nava …pe… avigate pannarasa.",
   "patthana10.3:3.1_0": "Nakusalaṁ nahetuvippayuttaṁ dhammaṁ paṭicca …. (Saṅkhittaṁ.)",
   "patthana10.3:4.1_0": "Hetuyā catuvīsa …pe… vipāke nava …pe… avigate catuvīsa.",
-  "patthana10.3:5.1_0": "Nakusalaṁ nahetuñceva naahetukañca dhammaṁ paṭicca …pe… nakusalaṁ naahetukañceva nanahetuñca dhammaṁ paṭicca …pe… nakusalaṁ nahetuñceva nahetuvippayuttañca dhammaṁ paṭicca …pe… nakusalaṁ nahetuvippayuttañceva nanahetuñca dhammaṁ paṭicca …. (Saṅkhittaṁ.)",
+  "patthana10.3:5.1_0": "Nakusalaṁ nahetuñceva naahetukañca dhammaṁ paṭicca …pe…",
+  "patthana10.3:5.1_1": "nakusalaṁ naahetukañceva nanahetuñca dhammaṁ paṭicca …pe…",
+  "patthana10.3:5.1_2": "nakusalaṁ nahetuñceva nahetuvippayuttañca dhammaṁ paṭicca …pe…",
+  "patthana10.3:5.1_3": "nakusalaṁ nahetuvippayuttañceva nanahetuñca dhammaṁ paṭicca ….",
+  "patthana10.3:5.1_4": "(Saṅkhittaṁ.)",
   "patthana10.3:6.1_0": "Hetuyā catuvīsa …pe… vipāke nava …pe… avigate catuvīsa.",
   "patthana10.3:7.1_0": "Nakusalaṁ nahetuṁ nasahetukaṁ dhammaṁ paṭicca …. (Saṅkhittaṁ. Sabbattha nava.)",
   "patthana10.3:8.1_0": "Nakusalaṁ nahetuṁ naahetukaṁ dhammaṁ paṭicca ….",
-  "patthana10.3:8.1_1": "(Saṅkhittaṁ.) Hetuyā catuvīsa …pe… vipāke nava …pe… avigate catuvīsa."
+  "patthana10.3:8.1_1": "(Saṅkhittaṁ.) Hetuyā catuvīsa …pe…",
+  "patthana10.3:8.1_2": "vipāke nava …pe…",
+  "patthana10.3:8.1_3": "avigate catuvīsa."
 }

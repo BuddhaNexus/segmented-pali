@@ -21,8 +21,7 @@
   "kv7.10:3.4_0": "Na hevaṁ vattabbe …pe….",
   "kv7.10:4.1_0": "Vipāko vipākadhammadhammoti?",
   "kv7.10:4.2_0": "Āmantā.",
-  "kv7.10:4.3_0": "Taññeva akusalaṁ so akusalassa vipāko,",
-  "kv7.10:4.3_1": "taññeva kusalaṁ so kusalassa vipākoti?",
+  "kv7.10:4.3_0": "Taññeva akusalaṁ so akusalassa vipāko, taññeva kusalaṁ so kusalassa vipākoti?",
   "kv7.10:4.4_0": "Na hevaṁ vattabbe …pe….",
   "kv7.10:5.1_0": "Vipāko vipākadhammadhammoti?",
   "kv7.10:5.2_0": "Āmantā.",
@@ -39,6 +38,14 @@
   "kv7.10:6.8_0": "Vipāko vipākadhammadhammotikathā niṭṭhitā.",
   "kv7.10:6.9_0": "Sattamo vaggo.",
   "kv7.10:6.10_0": "Tassuddānaṁ",
-  "kv7.10:7.1_0": "Saṅgaho, sampayutto, cetasiko dhammo, cetasikaṁ dānaṁ,",
-  "kv7.10:7.1_1": "paribhogamayaṁ puññaṁ vaḍḍhati, ito dinnena tattha yāpenti, pathavī kammavipāko, jarāmaraṇaṁ vipāko, natthi ariyadhammavipāko, vipāko vipākadhammadhammoti."
+  "kv7.10:7.1_0": "Saṅgaho,",
+  "kv7.10:7.1_1": "sampayutto,",
+  "kv7.10:7.1_2": "cetasiko dhammo,",
+  "kv7.10:7.1_3": "cetasikaṁ dānaṁ,",
+  "kv7.10:7.1_4": "paribhogamayaṁ puññaṁ vaḍḍhati,",
+  "kv7.10:7.1_5": "ito dinnena tattha yāpenti,",
+  "kv7.10:7.1_6": "pathavī kammavipāko,",
+  "kv7.10:7.1_7": "jarāmaraṇaṁ vipāko,",
+  "kv7.10:7.1_8": "natthi ariyadhammavipāko,",
+  "kv7.10:7.1_9": "vipāko vipākadhammadhammoti."
 }

@@ -40,13 +40,12 @@
   "kv21.8:4.2_0": "diṭṭhadhammavedanīyaṁ kammaṁ diṭṭhadhammavedanīyaṭṭhena niyataṁ, upapajjavedanīyaṁ kammaṁ …pe…",
   "kv21.8:4.3_0": "aparāpariyavedanīyaṁ kammaṁ aparāpariyavedanīyaṭṭhena niyatanti?",
   "kv21.8:4.4_0": "Āmantā.",
-  "kv21.8:4.5_0": "Diṭṭhadhammavedanīyaṁ kammaṁ upapajjavedanīyaṁ hoti,",
-  "kv21.8:4.5_1": "aparāpariyavedanīyaṁ hoti …pe…",
-  "kv21.8:4.6_0": "upapajjavedanīyaṁ kammaṁ diṭṭhadhammavedanīyaṁ hoti,",
-  "kv21.8:4.6_1": "aparāpariyavedanīyaṁ hoti …pe…",
+  "kv21.8:4.5_0": "Diṭṭhadhammavedanīyaṁ kammaṁ upapajjavedanīyaṁ hoti, aparāpariyavedanīyaṁ hoti …pe…",
+  "kv21.8:4.6_0": "upapajjavedanīyaṁ kammaṁ diṭṭhadhammavedanīyaṁ hoti, aparāpariyavedanīyaṁ hoti …pe…",
   "kv21.8:4.7_0": "aparāpariyavedanīyaṁ kammaṁ diṭṭhadhammavedanīyaṁ hoti, upapajjavedanīyaṁ hotīti?",
   "kv21.8:4.8_0": "Na hevaṁ vattabbe.",
-  "kv21.8:4.9_0": "Tena hi diṭṭhadhammavedanīyaṁ kammaṁ diṭṭhadhammavedanīyaṭṭhena niyataṁ, upapajjavedanīyaṁ kammaṁ …pe…",
+  "kv21.8:4.9_0": "Tena hi diṭṭhadhammavedanīyaṁ kammaṁ diṭṭhadhammavedanīyaṭṭhena niyataṁ,",
+  "kv21.8:4.9_1": "upapajjavedanīyaṁ kammaṁ …pe…",
   "kv21.8:4.10_0": "aparāpariyavedanīyaṁ kammaṁ aparāpariyavedanīyaṭṭhena niyatanti.",
   "kv21.8:4.11_0": "Kammakathā niṭṭhitā.",
   "kv21.8:4.12_0": "Ekavīsatimo vaggo.",
@@ -55,5 +54,8 @@
   "kv21.8:5.1_1": "puthujjano tedhātukehi kammehi avivitto,",
   "kv21.8:5.1_2": "atthi kiñci saṁyojanaṁ appahāya arahattappatti,",
   "kv21.8:5.1_3": "atthi adhippāyiddhi buddhānaṁ vā sāvakānaṁ vā,",
-  "kv21.8:5.1_4": "atthi buddhānaṁ buddhehi hīnātirekatā, sabbā disā buddhā tiṭṭhanti, sabbe dhammā niyatā, sabbe kammā niyatāti."
+  "kv21.8:5.1_4": "atthi buddhānaṁ buddhehi hīnātirekatā,",
+  "kv21.8:5.1_5": "sabbā disā buddhā tiṭṭhanti,",
+  "kv21.8:5.1_6": "sabbe dhammā niyatā,",
+  "kv21.8:5.1_7": "sabbe kammā niyatāti."
 }
