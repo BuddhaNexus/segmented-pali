@@ -17,7 +17,9 @@ The folder `inputfiles` holds the files with their original segmentation, includ
 
 Several files from SuttaCentral Bilara have been merged. This is the case for the AN, SN and DHP.
 
-The folder `inputfiles_cut_segments_for_NN` holds the files with longer segments cut according to `.`, `?`, `;`, `:` and `,` so as to make them usable for the calculation of matches.
+The folder `inputfiles_cut_segments_on_typography` holds the files with longer segments cut according to `.`, `?`, `;`, `:`, `-` and `,` so as to make them usable for the calculation of matches.
+
+The folder `inputfiles_cut_segments_on_space` holds the files with longer segments cut according to spaces so as to make them usable for the calculation of matches.
 
 
 
